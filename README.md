@@ -61,7 +61,7 @@ data/
 
 **Download:**
 
-* [Clean MHCD Dataset (ZIP)](link-to-dataset)
+* [Clean MHCD Dataset (ZIP)]([link-to-dataset](https://drive.google.com/file/d/1b60qEyZOV3oc1DWZf20CfyWnr_pRASIz/view?usp=sharing))
 * Original MHCD2022: `Military-Camouflage-MHCD2022.zip`
 
 ---
@@ -124,7 +124,7 @@ Training scripts and configs are available in:
 
 **Amir Hossein Eslami**
 
-* Email: [amirhosseineslami@example.com](mailto:amirhosseineslami@example.com)
+* Email: [amirhosseineslami@example.com](mailto:amirhossein.eslami.ac@gmail.com)
 * GitHub: [amirhosseineslami](https://github.com/amirhosseineslami)
 * LinkedIn: [amir-hossein-eslami](https://linkedin.com/in/amir-hossein-eslami)
 
