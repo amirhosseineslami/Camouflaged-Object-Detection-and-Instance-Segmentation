@@ -20,7 +20,7 @@ Camouflaged objects, blending into their surroundings, challenge both human perc
 
   * Processed the **Military Camouflage HD (MHCD2022)** dataset into a **noise-free, class-balanced version**.
   * Fixed mislabeled samples, removed duplicates, standardized image resolutions.
-  * Created consistent **training / validation splits** and uploaded to [Roboflow](<a href="https://universe.roboflow.com/forground/cod-mhcd-camouflaged-object-detection-dataset-curated-czv10">
+  * Created consistent **training / validation splits** and uploaded to <a href="https://universe.roboflow.com/forground/cod-mhcd-camouflaged-object-detection-dataset-curated-czv10">
     <img src="https://app.roboflow.com/images/download-dataset-badge.svg"></img>
 </a>) for reproducible annotation management.
 
