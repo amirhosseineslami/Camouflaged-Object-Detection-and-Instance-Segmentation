@@ -22,7 +22,7 @@ Camouflaged objects, blending into their surroundings, challenge both human perc
   * Fixed mislabeled samples, removed duplicates, standardized image resolutions.
   * Created consistent **training / validation splits** and uploaded to <a href="https://universe.roboflow.com/forground/cod-mhcd-camouflaged-object-detection-dataset-curated-czv10">
     <img src="https://app.roboflow.com/images/download-dataset-badge.svg"></img>
-</a>) for reproducible annotation management.
+</a> for reproducible annotation management.
 
 * **Dual-Task Implementation**
 
